@@ -246,7 +246,7 @@ class __xxx__:
             self.__pler__()
         elif chi in ('1', '01'):
             os.system("clear")
-         elif chi in ('3', '03')
+        elif chi in ('3', '03'):
          	os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO')
             print(logo)
             print("\033[1;31m\rUse flight (airplane) mode before use\033[1;37m")
