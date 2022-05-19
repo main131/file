@@ -248,7 +248,7 @@ class __xxx__:
             os.system("clear")
         elif chi in ('3', '03'):
          	os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO')
-            print(''''
+         
             print("\033[1;31m\rUse flight (airplane) mode before use\033[1;37m")
             print(47*"-")
             print('\033[1;37m Total IDs : %s ' % len(self.id))
